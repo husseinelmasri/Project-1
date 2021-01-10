@@ -358,6 +358,10 @@ align-items: start;
         height:110px;
       
     }
+    .navbar a{
+        font-size:12px;
+    }
+        
     .navbar .flex{
         flex-direction: column;
     
