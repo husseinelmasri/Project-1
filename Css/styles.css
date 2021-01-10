@@ -360,6 +360,8 @@ align-items: start;
     }
     .navbar a{
         font-size:0.7rem;
+        padding:0;
+        margin:0;
     }
         
     .navbar .flex{
