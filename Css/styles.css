@@ -358,11 +358,11 @@ align-items: start;
         height:90px;
       
     }
-    .navbar a{
-        font-size:0.7rem;
-        padding:0;
-        margin:0;
-    }
+   h1{
+    font-weight: 300;
+    line-height: 1;
+    margin :0;
+}
         
     .navbar .flex{
         flex-direction: column;
