@@ -354,9 +354,6 @@ align-items: start;
 
 /* Mobile */
 @media(max-width:500px){
-    body{
-        display:none;
-    }
     .navbar {
         height:90px;
       
